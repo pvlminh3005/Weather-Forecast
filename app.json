@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Slash-Network",
+    "slug": "Slash-Network",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Slash-Network"
+}
