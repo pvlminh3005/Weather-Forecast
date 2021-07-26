@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/weather?q=vietnamt&cnt=7&units=metric&appid=e5a5a8d387fc28c0401adeadb7ddf0fa
